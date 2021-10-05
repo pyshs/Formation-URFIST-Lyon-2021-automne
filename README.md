@@ -1,6 +1,6 @@
 ## Préparer la séance du 12 octobre
 
-Description de la séance : (ICI)[https://sygefor.reseau-urfist.fr/#/training/8972/10798?from=true]
+Description de la séance : [ICI](https://sygefor.reseau-urfist.fr/#/training/8972/10798?from=true)
 
 ### Rapide panorama
 
