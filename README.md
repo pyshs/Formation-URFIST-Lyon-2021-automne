@@ -2,6 +2,19 @@
 
 Description de la séance : [ICI](https://sygefor.reseau-urfist.fr/#/training/8972/10798?from=true)
 
+La séance de 6h a couvert :
+
+- les bases du langage Python et de son environnement (en particulier le Notebook Jupyter)
+- l'installation et la recherche de bibliothèques
+- les bases de Pandas et la production de statistiques
+- exemples d'usages avancés
+
+(cela correspond aux chapitre 2 à 5 du Manuel Python pour les SHS)
+
+Les documents dans le dépôt correspondent aux documents de la séance.
+
+Pour toute question suite à la formation, ne pas hésiter à contacter emilien.schultz[at]ird.fr
+
 ### Rapide panorama
 
 Python est un langage interprété qui nécessite un environnement. 
